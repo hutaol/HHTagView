@@ -1,0 +1,6 @@
+framework module Pods_HHTagView_Tests {
+  umbrella header "Pods-HHTagView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

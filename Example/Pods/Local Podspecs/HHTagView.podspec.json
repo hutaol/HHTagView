@@ -1,0 +1,27 @@
+{
+  "name": "HHTagView",
+  "version": "0.1.0",
+  "summary": "A short description of HHTagView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1325049637@qq.com/HHTagView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1325049637@qq.com": "1325049637@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1325049637@qq.com/HHTagView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HHTagView/Classes/**/*",
+  "dependencies": {
+    "YYText": [
+      "~> 1.0.7"
+    ]
+  }
+}
