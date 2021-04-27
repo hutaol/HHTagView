@@ -1,22 +1,15 @@
 PODS:
-  - HHTagView (0.1.0):
-    - YYText (~> 1.0.7)
-  - YYText (1.0.7)
+  - HHTagView (0.1.0)
 
 DEPENDENCIES:
   - HHTagView (from `../`)
-
-SPEC REPOS:
-  trunk:
-    - YYText
 
 EXTERNAL SOURCES:
   HHTagView:
     :path: "../"
 
 SPEC CHECKSUMS:
-  HHTagView: 9673a2969555cd31f96b23c5f1ae16ec22edd65a
-  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+  HHTagView: 83a6183237d6777d61dc8001e2faf38494a32c9f
 
 PODFILE CHECKSUM: c038d5fc67f50eb6e2439dc6303ed43a4652ae02
 

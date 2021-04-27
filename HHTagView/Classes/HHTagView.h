@@ -5,7 +5,8 @@
 //  Created by Henry on 2021/4/26.
 //
 
-#import <YYText/YYText.h>
+#import "YYText.h"
+
 @class HHTagView;
 
 NS_ASSUME_NONNULL_BEGIN

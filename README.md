@@ -9,6 +9,7 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+
 ## Requirements
 
 ## Installation
@@ -22,8 +23,11 @@ pod 'HHTagView'
 
 ## Author
 
-1325049637@qq.com, 1325049637@qq.com
+1325049637@qq.com
 
 ## License
 
 HHTagView is available under the MIT license. See the LICENSE file for more info.
+
+感谢：https://github.com/WangJianShi/XWTagView
+
