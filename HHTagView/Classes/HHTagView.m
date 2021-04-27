@@ -45,12 +45,13 @@
     self.strokeWidth = 0;
     self.fillColor = [UIColor blueColor];
     self.cornerRadius = 5;
-    self.insets = UIEdgeInsetsMake(-8, 12, -8, 12);
+    self.insets = UIEdgeInsetsMake(-5, 8, -5, 8);
     self.lineJoin= kCGLineJoinBevel;
-    self.tagFont = [UIFont systemFontOfSize:17];
+    self.tagFont = [UIFont systemFontOfSize:15];
     self.tagColor = [UIColor whiteColor];
     self.lineSpace = 10;
     self.space = 10;
+    self.firstLineSpace = 10;
     self.maxWidth = [UIScreen mainScreen].bounds.size.width;
     
     self.numberOfLines = 0;
@@ -160,7 +161,7 @@
     NSMutableParagraphStyle *style = [[NSParagraphStyle defaultParagraphStyle] mutableCopy];
     style.lineSpacing = self.lineSpace;
     if (self.tagAlignment == HHTagAlignmentLeft) {
-        style.firstLineHeadIndent = self.space;
+        style.firstLineHeadIndent = self.firstLineSpace;
     }
     switch (self.tagAlignment) {
         case HHTagAlignmentLeft:
