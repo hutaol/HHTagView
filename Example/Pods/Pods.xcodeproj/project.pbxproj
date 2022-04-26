@@ -96,10 +96,10 @@
 		1A47619B67DE0F1768997016AD548720 /* UIView+YYText.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+YYText.m"; sourceTree = "<group>"; };
 		1B9EBB60B070747117F22BB3639A38D2 /* YYLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYLabel.h; sourceTree = "<group>"; };
 		1C1C1F559F7E5B8DB325D7903CAA9EC0 /* Pods-HHTagView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HHTagView_Tests.modulemap"; sourceTree = "<group>"; };
-		1DAF21663FA45757A92A4C037745B795 /* Pods_HHTagView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HHTagView_Tests.framework; path = "Pods-HHTagView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DAF21663FA45757A92A4C037745B795 /* Pods_HHTagView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HHTagView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E6B58B67D07E69DA27894D92FC738C6 /* YYTextMagnifier.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextMagnifier.m; sourceTree = "<group>"; };
 		20B184C677A56AB02963049F91E3A5C5 /* YYTextUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextUtilities.h; sourceTree = "<group>"; };
-		22F630B219A23571244D90B8E7919193 /* HHTagView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = HHTagView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		22F630B219A23571244D90B8E7919193 /* HHTagView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = HHTagView.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		253DBC9DC9368BFCA5EF7F02523966FF /* YYTextView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextView.h; sourceTree = "<group>"; };
 		257962C8F64C49AB75D79BCE4D160B1F /* Pods-HHTagView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HHTagView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		26C511100C7CCF44ED14D03DF5F47F99 /* Pods-HHTagView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HHTagView_Example-dummy.m"; sourceTree = "<group>"; };
@@ -113,13 +113,13 @@
 		32D1CE0FEFBDFB15B2846B4163F9705A /* YYTextLayout.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextLayout.m; sourceTree = "<group>"; };
 		38CEDC42E37F484335CD74480692D0F4 /* YYTextParser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextParser.h; sourceTree = "<group>"; };
 		47542F9C39800031CF666E18E869F83A /* Pods-HHTagView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HHTagView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		4A830B47E4A4597471CC19A0206638A6 /* Pods_HHTagView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HHTagView_Example.framework; path = "Pods-HHTagView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4B0A54FBF9F75DDB5D4C77B9BFBEB74A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		4A830B47E4A4597471CC19A0206638A6 /* Pods_HHTagView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HHTagView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B0A54FBF9F75DDB5D4C77B9BFBEB74A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		4C3FDB06DD1C08908BE755C112829B52 /* Pods-HHTagView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HHTagView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4F20BABEC34C8D0117A50EC5F9EFB13C /* YYTextEffectWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextEffectWindow.h; sourceTree = "<group>"; };
 		503A99E716914171D8C3D3F8E4E4FBB7 /* YYTextInput.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextInput.m; sourceTree = "<group>"; };
 		50416305C21E77900D645633D9A7F0D0 /* YYTextKeyboardManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextKeyboardManager.h; sourceTree = "<group>"; };
-		516C010BC3A7C128B07E52923F68957A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		516C010BC3A7C128B07E52923F68957A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		533E43A0B8CC61A0C78747B8FDEFA8F1 /* UIView+YYText.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+YYText.h"; sourceTree = "<group>"; };
 		5680A3C6317A6CF66C4946948E6DF940 /* Pods-HHTagView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HHTagView_Tests-dummy.m"; sourceTree = "<group>"; };
 		59D7226B70549ED9B3918DFD1D8E6234 /* NSAttributedString+YYText.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSAttributedString+YYText.h"; sourceTree = "<group>"; };
@@ -146,7 +146,7 @@
 		997B2DB39156E9D80772EF7F6E54848C /* HHTagView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HHTagView.m; path = HHTagView/Classes/HHTagView.m; sourceTree = "<group>"; };
 		9A156FB97A103C653823A43724BE4600 /* YYTextWeakProxy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextWeakProxy.h; sourceTree = "<group>"; };
 		9CA1784C412E0E1579F40C3B1B24D0E8 /* UIPasteboard+YYText.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIPasteboard+YYText.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A12CFA1EB938042B4BD72C2BAE737A61 /* YYTextRubyAnnotation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextRubyAnnotation.h; sourceTree = "<group>"; };
 		A214F4AD406679DF0E04BFA01558AB5C /* UIPasteboard+YYText.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIPasteboard+YYText.m"; sourceTree = "<group>"; };
 		A6F569726BEE51E75FCA74FC3F00B48E /* YYTextView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextView.m; sourceTree = "<group>"; };
@@ -166,7 +166,7 @@
 		E08143FC4FC041D62CA069E9DA44F7B5 /* YYTextRubyAnnotation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextRubyAnnotation.m; sourceTree = "<group>"; };
 		E2FC7401E86C9DF63FA31BA8EF30B654 /* HHTagView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HHTagView-umbrella.h"; sourceTree = "<group>"; };
 		EF4306FCD81A16F537B19C2741F88ED5 /* YYTextContainerView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextContainerView.m; sourceTree = "<group>"; };
-		EF5FD80143EEC1AD0CB03AB8D8878A41 /* HHTagView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = HHTagView.framework; path = HHTagView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF5FD80143EEC1AD0CB03AB8D8878A41 /* HHTagView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HHTagView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5D76D1C0A388910AE6B2888D7373ACD /* YYTextInput.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YYTextInput.h; sourceTree = "<group>"; };
 		FA09D8FC64F2C722AB13CF5B007BF546 /* YYTextDebugOption.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = YYTextDebugOption.m; sourceTree = "<group>"; };
 		FDA358D274B5F03AB834E8240BD5BC85 /* HHTagView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HHTagView.debug.xcconfig; sourceTree = "<group>"; };
@@ -253,7 +253,6 @@
 				9A156FB97A103C653823A43724BE4600 /* YYTextWeakProxy.h */,
 				2C66CE11713062EACFC6CAD3D33890B0 /* YYTextWeakProxy.m */,
 			);
-			name = Utility;
 			path = Utility;
 			sourceTree = "<group>";
 		};
@@ -324,7 +323,6 @@
 				CD9FF64F6CA5FCBDDA24ECCCFFE0C427 /* YYTextSelectionView.h */,
 				79C0B354798DEB1789CBD54EEEFF8F94 /* YYTextSelectionView.m */,
 			);
-			name = Component;
 			path = Component;
 			sourceTree = "<group>";
 		};
@@ -374,7 +372,6 @@
 				2EA0E0318B2C4309748C59E5B555A260 /* YYTextRunDelegate.h */,
 				628905EA7BA7DC56044C6065E231A20E /* YYTextRunDelegate.m */,
 			);
-			name = String;
 			path = String;
 			sourceTree = "<group>";
 		};
@@ -923,8 +920,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

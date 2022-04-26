@@ -45,7 +45,7 @@
     self.strokeWidth = 0;
     self.fillColor = [UIColor blueColor];
     self.cornerRadius = 5;
-    self.insets = UIEdgeInsetsMake(-5, 8, -5, 8);
+    self.insets = UIEdgeInsetsMake(5, 8, 5, 8);
     self.lineJoin= kCGLineJoinBevel;
     self.tagFont = [UIFont systemFontOfSize:15];
     self.tagColor = [UIColor whiteColor];
@@ -60,10 +60,15 @@
         
 }
 
+
+- (void)setTagFont:(UIFont *)tagFont {
+    _tagFont = tagFont;
+    self.font = tagFont;
+}
+
 - (void)setTagArray:(NSArray<NSString *> *)tagArray {
     _tagArray = tagArray;
     
-    self.maxWidth = self.frame.size.width;
     self.rangOfTags = [NSMutableArray array];
 
     NSMutableAttributedString *text = [[NSMutableAttributedString alloc] init];

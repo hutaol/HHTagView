@@ -57,7 +57,7 @@ typedef NS_ENUM(NSUInteger, HHTagAlignment) {
 // 路径的连接点形状,] kCGLineJoinMiter(默认全部连接),kCGLineJoinRound(圆形连接),kCGLineJoinBevel(斜角连接)
 @property (nonatomic) CGLineJoin lineJoin;
 
-// 标签内容内边距， 默认：UIEdgeInsetsMake(-5, 8, -5, 8);
+// 标签内容内边距， 默认：UIEdgeInsetsMake(5, 8, 5, 8);
 @property (nonatomic) UIEdgeInsets insets;
 
 // 标签圆角，默认：5
