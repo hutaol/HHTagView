@@ -140,6 +140,9 @@
     
     // 高度记录（富文本已扩展高度属性）
     self.tagHeight = height + self.space * 2;
+    
+    [self sizeToFit];
+
 }
 
 - (NSMutableAttributedString *)createEmptyAttributeString:(CGFloat)width {
