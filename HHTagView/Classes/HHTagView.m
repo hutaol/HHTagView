@@ -139,7 +139,7 @@
     self.attributedText = text;
     
     // 高度记录（富文本已扩展高度属性）
-    self.tagHeight = height + self.space * 2;
+    self.tagHeight = height + self.lineSpace * 2;
     
     CGSize labelSize = [self sizeThatFits:CGSizeMake(self.maxWidth, MAXFLOAT)];
     
